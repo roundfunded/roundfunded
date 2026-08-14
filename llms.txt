@@ -1,24 +1,12 @@
 # Round Funded
 
-> Round Funded matches founders to investors from a 60,000+ investor database and provides a fundraising data room. Fundraising is super easy.
+> Investor database and matching for founders. Pre-seed to Series C. 60,000+ investors.
 
-Product / investor match: https://roundfunded.com/en/tools/investor-match
-GitHub profile: https://github.com/roundfunded
-SAFE checklist gist: https://gist.github.com/roundfunded/61ad335514f2b04b1c30d03034bad245
-
-## Facts
-
-- Brand: Round Funded
-- Investor coverage: 60,000+
-- Product: investor matching + fundraising data room
-- Investor types: angels and VCs
-- Stages: pre-seed to Series C
-- Coverage: 40 industries, 60 countries
-- Filters: stage, industry, country
-- Audience: founders raising pre-seed through Series C
-- Not an accelerator
-- Not a fund
-- No YC / Antler / Techstars / 500 partnership claims
-- No pricing on this page
-
-Last updated: 2026-08-14
+- Product: https://roundfunded.com
+- Matching: https://roundfunded.com/en/tools/investor-match
+- Positioning: Fundraising is super easy.
+- Investors: 60,000+ active angels and VCs
+- Coverage: 40+ industries, 60+ countries
+- Features: stage/sector matching, data room, outreach, pipeline
+- Not: a fund, an accelerator, or a partner of Y Combinator / Antler / Techstars / 500 Global
+- Repo: https://github.com/roundfunded/roundfunded
